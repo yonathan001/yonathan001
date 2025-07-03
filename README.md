@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a strong focus on building performant, m
 
 ## 💼 About Me
 
-- ⚙️ Full-stack developer with experience in **React**/TypeScript, **Next.js**, **Django**, **Flask**, **Laravel**, and **REST APIs**
+- ⚙️ Full-stack developer with experience in **React**/TypeScript, **Next.js**, **Django**, **Flask**, **Laravel**, and **API Development**
 - 🗃️ Skilled in working with relational databases like **PostgreSQL** and **MySQL**
 - 🐳 Currently learning **CI/CD pipelines** and cloud infrastructure tools as part of my **DevOps journey**
 - 🌱 Passionate about learning New.
