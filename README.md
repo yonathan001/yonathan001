@@ -32,20 +32,26 @@ A passionate **Software Engineer** focused on building performant, modern, scala
 ### 🤖 AI / RAG Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/VectorDB-ChromaDB-blue?style=flat)
+![Vector DB](https://img.shields.io/badge/VectorDB-General-blue?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-Models-purple?style=flat)
 
-- Custom **RAG pipelines**
-- Document chunking & embedding generation
-- ChromaDB / Pinecone vector stores
-- Retrieval-augmented chatbots
-- LLM-driven workflow automation
+- Custom **RAG pipelines**  
+- Document chunking & embedding generation  
+- Vector databases (Chroma / Pinecone / Weaviate / FAISS)  
+- Retrieval-augmented chatbots  
+- LLM-driven workflow automation  
 
 ### 🔹 API  
 ![REST API](https://img.shields.io/badge/REST-API-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### 🔹 DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-3A3A3A?style=flat&logo=serverfault&logoColor=white)
 
 ### 🔹 Database  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=databricks&logoColor=white)
