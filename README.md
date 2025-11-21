@@ -1,45 +1,63 @@
 # 👋 Hi, I'm Yonathan Wondosen
 
-I'm a passionate **Software Engineer** focused on building performant, modern, and scalable web applications. I specialize in both frontend and backend development, and I'm currently diving into **DevOps** to automate and optimize deployment workflows.
+A passionate **Software Engineer** focused on building performant, modern, scalable web applications and AI-powered systems. I work across frontend, backend, and AI development—turning complex problems into clean, efficient solutions.
 
 ---
 
 ## 💼 About Me
 
-- ⚙️ Full-stack developer experienced in **React**, **Tailwind CSS**, **TypeScript**, **Django**, **Flask**, **Laravel**, and **API Development**
-- 🗃️ Proficient in working with relational databases like **PostgreSQL** and **MySQL**
-- 🚀 Currently exploring **DevOps** tools to enhance system reliability and delivery speed
-- 🌱 Constantly learning and pushing boundaries in tech
+- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **Tailwind CSS**, **TypeScript**, **Django**, **Flask**, **FastAPI**, and **Node/Express.js**  
+- 🤖 AI developer with hands-on experience in **RAG pipelines**, **vector databases**, **embedding models**, and **AI-powered search/chat systems**  
+- 🗃️ Skilled in working with **SQL** and **NoSQL** databases  
+- 🚀 DevOps experience with **Docker**, **Kubernetes**, **VPS**, and **AWS**  
+- 🌱 Constantly learning and exploring cutting-edge technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
+### 🔹 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### 🔹 Backend
-
+### 🔹 Backend  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### 🔹 API
+### 🤖 AI / RAG Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
+![Vector DB](https://img.shields.io/badge/VectorDB-ChromaDB-blue?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-Models-purple?style=flat)
+
+- Custom **RAG pipelines**
+- Document chunking & embedding generation
+- ChromaDB / Pinecone vector stores
+- Retrieval-augmented chatbots
+- LLM-driven workflow automation
+
+### 🔹 API  
 ![REST API](https://img.shields.io/badge/REST-API-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### 🔹 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+### 🔹 Database  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=databricks&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-3A3A3A?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio**: [yonathan.com.et](https://yonathan.com.et/)
-- 💼 **LinkedIn**: [linkedin.com/in/yonathan-wondosen](https://www.linkedin.com/in/yonathan-wondosen-a025bb239/)
-- ✉️ **Email**: [yonathanwondosen@gmail.com](mailto:yonathanwondosen@gmail.com)
+- 🌐 **Portfolio**: https://yonathan.com.et  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/yonathan-wondosen-a025bb239  
+- ✉️ **Email**: yonathanwondosen@gmail.com  
 
 ---
 
