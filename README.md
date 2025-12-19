@@ -60,7 +60,7 @@ A passionate **Software Engineer** focused on building performant, modern, scala
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio**: https://yonathan.com.et  
+- 🌐 **Portfolio**: https://yonathans.vercel.app  
 - 💼 **LinkedIn**: https://www.linkedin.com/in/yonathan-wondosen-a025bb239  
 - ✉️ **Email**: yonathanwondosen@gmail.com  
 
