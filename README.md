@@ -6,7 +6,7 @@ A passionate **Software Engineer** focused on building performant, modern, scala
 
 ## 💼 About Me
 
-- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **Tailwind CSS**, **TypeScript**, **Django**, **Flask** and **Node/Express.js**  
+- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **TypeScript**, **Django**, **Flask** and **Node/Express.js**  
 - 🤖 AI developer with hands-on experience in **RAG pipelines**, **vector databases**, **embedding models**, and **AI-powered search/chat systems**  
 - 🗃️ Skilled in working with **SQL** and **NoSQL** databases  
 - 🚀 DevOps experience with **Docker**, **Kubernetes**, **VPS**, and **AWS**  
