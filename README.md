@@ -6,7 +6,7 @@ A passionate **Software Engineer** focused on building performant, modern, scala
 
 ## 💼 About Me
 
-- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **TypeScript**, **Django**, **Flask**, **FastAPI** and **Node/Express.js**
+- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **TypeScript**, **Flask**, **FastAPI** and **Node/Express.js**
 - 🤖 AI developer with hands-on experience in **RAG pipelines**, **vector databases**, **embedding models**, and **AI-powered search/chat systems**
 - 🗃️ Skilled in working with **SQL** and **NoSQL** databases
 - 🚀 DevOps experience with **Docker**, **Kubernetes**, **VPS**, and **AWS**
@@ -23,7 +23,6 @@ A passionate **Software Engineer** focused on building performant, modern, scala
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### 🔹 Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
