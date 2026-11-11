@@ -8,9 +8,8 @@
 
 ## 💼 What I'm doing now
 
-- 🏦 **Fullstack Software Engineer @ VELKAP Ltd** (UK fintech, remote contract): building an investment management platform and an investor portal with **C#/.NET, Next.js and Azure**, including an FCA compliance rules engine, OIDC authentication and automated PII redaction
-- 🏥 **Co-Founder & Technical Lead @ Bego Healthcare Solution** ([bego.et](https://bego.et)): an AI-powered EMR for dental and medical clinics, running in **5 clinics with 4,000+ patients at 99% uptime**. Selected for the **Ethiopian Artificial Intelligence Institute (EAII) AI Startup Incubation Program**
-- 🛡️ **Building in public: Maskgate**, an open-source, privacy-first LLM gateway with provider fallback, caching, spend limits and PII redaction *(in progress, repo coming soon)*
+- 🏦 **Fullstack Software Engineer @ VELKAP Ltd**: working remotely with a UK-based company
+- 🏥 **Co-Founder & Technical Lead @ Bego Healthcare Solution** ([bego.et](https://bego.et)): an AI-powered EMR for dental and medical clinics, running with 4,000+ patients at 99% uptime**. Selected for the **Ethiopian Artificial Intelligence Institute (EAII) AI Startup Incubation Program**
 
 ---
 
@@ -60,11 +59,11 @@ Java Spring Boot · GraphQL · REST API design · Payment gateway integrations (
 ## 🚀 Highlights
 
 - **Healthcare in production:** built and operate an EMR used by 5 clinics, with Docker and PM2 on VPS infrastructure and 99% uptime
-- **Fintech with compliance:** FCA rules engine, OIDC authentication and automated PII redaction for a UK fintech
-- **AI in production:** RAG chatbot with two modes (public survey collection inside Qualtrics, private document Q&A) and tuned vector retrieval
-- **Payments:** fault-tolerant Chapa and Telebirr integrations with webhook handling and edge-case fixes
+- **AI systems:** RAG chatbots with tuned vector retrieval
+- **Payments:** fault-tolerant payment gateway integrations with webhook handling
+- **Security-minded:** authentication, access control and PII protection
 
-> Most of my client and product code is private. Public projects will appear in my pinned repositories as I publish them.
+> Most of my work is private. Public projects will appear in my pinned repositories as I publish them.
 
 ---
 
