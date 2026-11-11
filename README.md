@@ -56,17 +56,6 @@ Java Spring Boot · GraphQL · REST API design · Payment gateway integrations (
 
 ---
 
-## 🚀 Highlights
-
-- **Healthcare in production:** built and operate an EMR used by 5 clinics, with Docker and PM2 on VPS infrastructure and 99% uptime
-- **AI systems:** RAG chatbots with tuned vector retrieval
-- **Payments:** fault-tolerant payment gateway integrations with webhook handling
-- **Security-minded:** authentication, access control and PII protection
-
-> Most of my work is private. Public projects will appear in my pinned repositories as I publish them.
-
----
-
 ## 🎓 Education
 
 **BSc in Computer Science**, Unity University, Addis Ababa (2022 to 2026)
