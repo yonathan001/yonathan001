@@ -56,6 +56,9 @@ Java Spring Boot · GraphQL · REST API design · Payment gateway integrations (
 
 ---
 
+GitHub Stats
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=yonathan001&theme=default&hide_border=true" alt="GitHub streak: total contributions and longest streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yonathan001&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonathan001&layout=compact&hide_border=true" alt="Top languages" height="170" /> </p>
+
 ## 🎓 Education
 
 **BSc in Computer Science**, Unity University, Addis Ababa (2022 to 2026)
