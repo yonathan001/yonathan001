@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yonathan Wondosen
 
-**Full-Stack Software Engineer** building secure web platforms and backend systems across **fintech, healthcare and AI**. I work with international teams remotely and run my own healthcare product in Ethiopia.
+**Full-Stack Software Engineer** building secure web platforms and backend systems**. I work with international teams remotely and run my own product in Ethiopia.
 
-📍 Addis Ababa, Ethiopia (UTC+3) · 🌍 Open to remote roles worldwide, with a focus on **US and European teams**
+📍 Addis Ababa, Ethiopia (UTC+3) · 🌍 Open to remote roles worldwide.
 
 ---
 
