@@ -1,68 +1,84 @@
 # 👋 Hi, I'm Yonathan Wondosen
 
-A passionate **Software Engineer** focused on building performant, modern, scalable web applications and AI-powered systems. I work across frontend, backend, and AI development—turning complex problems into clean, efficient solutions.
+**Full-Stack Software Engineer** building secure web platforms and backend systems across **fintech, healthcare and AI**. I work with international teams remotely and run my own healthcare product in Ethiopia.
+
+📍 Addis Ababa, Ethiopia (UTC+3) · 🌍 Open to remote roles worldwide, with a focus on **US and European teams**
 
 ---
 
-## 💼 About Me
+## 💼 What I'm doing now
 
-- ⚙️ Full-stack engineer experienced in **React**, **Next.js**, **TypeScript**, **Flask**, **FastAPI** and **Node/Express.js**
-- 🤖 AI developer with hands-on experience in **RAG pipelines**, **vector databases**, **embedding models**, and **AI-powered search/chat systems**
-- 🗃️ Skilled in working with **SQL** and **NoSQL** databases
-- 🚀 DevOps experience with **Docker**, **Kubernetes**, **VPS**, and **AWS**
-- 🌱 Constantly learning and exploring cutting-edge technologies
+- 🏦 **Fullstack Software Engineer @ VELKAP Ltd** (UK fintech, remote contract): building an investment management platform and an investor portal with **C#/.NET, Next.js and Azure**, including an FCA compliance rules engine, OIDC authentication and automated PII redaction
+- 🏥 **Co-Founder & Technical Lead @ Bego Healthcare Solution** ([bego.et](https://bego.et)): an AI-powered EMR for dental and medical clinics, running in **5 clinics with 4,000+ patients at 99% uptime**. Selected for the **Ethiopian Artificial Intelligence Institute (EAII) AI Startup Incubation Program**
+- 🛡️ **Building in public: Maskgate**, an open-source, privacy-first LLM gateway with provider fallback, caching, spend limits and PII redaction *(in progress, repo coming soon)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
+### 🔹 Primary
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### 🔹 Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-### 🤖 AI / RAG Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/VectorDB-General-blue?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-Models-purple?style=flat)
-
-- Custom **RAG pipelines**
-- Document chunking & embedding generation
-- Vector databases (Chroma / MongoDB vector store)
-- Retrieval-augmented chatbots
-- LLM-driven workflow automation
-
-### 🔹 API
-![REST API](https://img.shields.io/badge/REST-API-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🔹 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+### 🤖 AI / RAG
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Vector_Search-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- RAG pipelines: document chunking, embeddings, semantic retrieval
+- Vector search tuning (HNSW parameters, embedding and chunking strategy)
+- Retrieval-augmented chatbots with public and private modes
+- AI assistants for clinical workflows (with human review)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-3A3A3A?style=flat&logo=serverfault&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 
-### 🔹 Database
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=databricks&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-3A3A3A?style=flat&logo=mongodb&logoColor=white)
+- CI/CD pipelines, VPS infrastructure, microservices
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### 🔹 Also used
+Java Spring Boot · GraphQL · REST API design · Payment gateway integrations (Chapa, Telebirr, Stripe)
+
+---
+
+## 🚀 Highlights
+
+- **Healthcare in production:** built and operate an EMR used by 5 clinics, with Docker and PM2 on VPS infrastructure and 99% uptime
+- **Fintech with compliance:** FCA rules engine, OIDC authentication and automated PII redaction for a UK fintech
+- **AI in production:** RAG chatbot with two modes (public survey collection inside Qualtrics, private document Q&A) and tuned vector retrieval
+- **Payments:** fault-tolerant Chapa and Telebirr integrations with webhook handling and edge-case fixes
+
+> Most of my client and product code is private. Public projects will appear in my pinned repositories as I publish them.
+
+---
+
+## 🎓 Education
+
+**BSc in Computer Science**, Unity University, Addis Ababa (2022 to 2026)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio**: https://yonathans.vercel.app
-- 💼 **LinkedIn**: https://www.linkedin.com/in/yonathan-wondosen-a025bb239
-- ✉️ **Email**: yonathanwondosen@gmail.com
+- 🌐 **Portfolio:** https://yonathans.vercel.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yonathan-wondosen-a025bb239
+- ✉️ **Email:** yonathanwondosen@gmail.com
 
 ---
 
